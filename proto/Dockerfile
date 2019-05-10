@@ -1,0 +1,1 @@
+FROM kotalab/protobuf:latest
